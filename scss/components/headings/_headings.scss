@@ -1,0 +1,19 @@
+.heading,
+%heading {
+  text-align: center;
+}
+
+.heading--primary,
+%heading--primary {
+  @extend %heading;
+
+  font-weight: 300;
+}
+
+.heading--logo {
+  @extend %heading;
+
+  font-size: 3.5rem;
+  line-height: normal;
+}
+

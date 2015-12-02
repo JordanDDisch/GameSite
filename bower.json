@@ -1,0 +1,19 @@
+{
+  "name": "GameSite",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JordanDDisch/GameSite",
+  "authors": [
+    "JordanDDisch <jordanddisch@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "breakpoint-sass": "~2.6.1"
+  }
+}
