@@ -1,0 +1,26 @@
+{
+  "name": "GameSite",
+  "version": "1.0.0",
+  "description": "A game site for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JordanDDisch/GameSite.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanDDisch/GameSite/issues"
+  },
+  "homepage": "https://github.com/JordanDDisch/GameSite",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
