@@ -14,7 +14,7 @@ gulp.task('sass', function () {
         }))
         .pipe(minifyCss())
         .pipe(sourcemaps.write())
-        .pipe(gulp.dest("./css"));
+        .pipe(gulp.dest("css"));
 });
 
 gulp.task('watch', function() {
